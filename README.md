@@ -26,10 +26,6 @@ The project includes complete data preprocessing, feature engineering, model tra
 Dataset Used:
 - NSL-KDD Dataset
 
-Files:
-- kdd_train.csv
-- kdd_test.csv
-
 ---
 
 ## 🏷 Attack Categories
@@ -116,7 +112,7 @@ IntrusionDetectionSystem/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/IntrusionDetectionSystem.git
+git clone https://github.com/Anikgarg05/IntrusionDetectionSystem.git
 ```
 
 Install dependencies
@@ -178,9 +174,7 @@ B.Tech Computer Science Engineering (IoT)
 
 Manipal University Jaipur
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/Anikgarg05/IntrusionDetectionSystem.git
 
 ---
 
